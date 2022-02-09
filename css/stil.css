@@ -1,0 +1,73 @@
+* {
+	margin:0;
+	padding:0;
+	list-style:none;
+	}
+	
+html {
+ 
+  background: url(../gorsel/emin_adiguzel.jpg) center center no-repeat fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
+body {	
+	color:#999;
+	padding:20px 20px 0 20px;;
+	font-size:16px;
+	text-align:right;
+	font-family: 'Kaushan Script', cursive;
+	
+	}
+	h1 {
+		font-size:25rm;
+		font-family: 'Kaushan Script', cursive;
+		}
+	p {
+		font-size:12rm;
+		}
+			
+	.h25{
+		display:block;
+		padding-bottom:25px;
+		}
+	
+	a:link, a:visited, a:hover, a:active {
+		color:#999;
+		text-decoration:none;
+		} 
+		
+		
+/*/////////////////TELEFON/////////////////*/	
+@media screen and (max-width: 480px)  {
+.gsm, .eposta, .linkler {
+		display:block;
+		padding-bottom:25px;
+		}
+	
+
+}
+
+/*/////////////////TABLET/////////////////*/
+@media screen and (min-width: 481px) and (max-width: 959px) {
+.gsm, .linkler {
+		display:block;
+		padding-bottom:25px;
+		}
+}
+
+
+/*/////////////////MASAÜSTÜ/////////////////*/
+@media only screen and (min-width: 960px) {
+	.gsm, .linkler {
+		display:block;
+		padding-bottom:18px;
+		}
+	
+}
+
+
+
