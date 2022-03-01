@@ -6,7 +6,7 @@ Emin ADIGÜZEL kişisel web sitesi.
 Bu sitede bana ait bilgileri derli toplu şekilde bulabileceksiniz.
 
 ### :pushpin: Sitenin web adresi
- :rocket: [www.eminadiguzel.com](https://www.eminadiguzel.com)  
+ :rocket: [www.eminadiguzel.com](http://www.eminadiguzel.com)  
  
 ### :pushpin: Kullanılan teknolojiler
 * Html
